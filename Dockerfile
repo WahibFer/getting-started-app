@@ -1,4 +1,4 @@
-#Webhook
+#Web
 FROM node:latest
 WORKDIR /app
 COPY . .
